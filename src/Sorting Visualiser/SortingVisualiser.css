@@ -1,0 +1,21 @@
+.visualiser-body {
+    background-color: #0f172a; /* Change to any desired background color */
+    min-height: 100vh;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.array-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 70vw;
+    position: relative;
+    margin: auto;
+}
+
+.array-bar {
+    background: #915085;
+    margin: 0px 1px;
+    border-radius: 3px;
+}
