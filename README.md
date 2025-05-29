@@ -6,6 +6,12 @@ It is designed as an educational tool to help users understand and explore the s
 
 ---
 
+## 🚀 Deployment Link
+
+Check out the live application here: [https://sortify-mku5.onrender.com](https://sortify-mku5.onrender.com)
+
+---
+
 ## 🔍 Features
 
 - **Interactive Visualization**  
@@ -26,8 +32,8 @@ It is designed as an educational tool to help users understand and explore the s
 
 ## 🛠️ Tech Stack
 
-- **React.js** – Modern front-end JavaScript library for building UI.
-- **HTML5 & CSS3** – Markup and styling.
+- **React.js** – Modern front-end JavaScript library for building UI.  
+- **HTML5 & CSS3** – Markup and styling.  
 - **JavaScript (ES6+)** – Core logic and interactivity.
 
 ---
@@ -37,7 +43,7 @@ It is designed as an educational tool to help users understand and explore the s
 To run Sortify locally:
 
 ```bash
-git clone https://github.com/yourusername/sortify.git
+git clone https://github.com/iitiansohan/sortify.git
 cd sortify
 npm install
 npm run dev
